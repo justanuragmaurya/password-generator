@@ -1,5 +1,7 @@
 # Password Generator
 
+https://password-generator-anuragm.vercel.app/
+
 This project is a simple password generator built with React. It allows users to generate a password of a specified length, with options to include numbers and special characters. Users can also copy the generated password to their clipboard with a single click.
 
 ## Technologies Used
